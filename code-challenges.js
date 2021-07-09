@@ -14,7 +14,7 @@ var temp1 = 35
 var temp2 = 350
 var temp3 = 212
 
-
+//test
 
 // --------------------2) Create a function that takes in two arrays of numbers and returns a single array with all the values sorted least to greatest.
 // Use the test variables provided below. Expected output: [-9, -7, 0, 3, 7, 8, 9, 13, 22, 36]
