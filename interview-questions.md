@@ -21,31 +21,31 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: An index is the position of a value/data inside of an array or a string. In javascript strings and arrays are zero indexed meaning they start from an index of 0, and go up by one. The index is used to access the value inside of that index position when calling on a position inside of an array or stirng.
 
-  Researched answer:
+  Researched answer: Indexes are sequential numbers that are sort of like addresses for the elements in an array or characters in a string. To access the index we use square brackets with arrays or inside the parenthesis of a built in method for strings. Indexes can be used to change the value at that location by essentially creating a variable with the index position. The length of an array or a string is always the last index position plus one. The content of each element in an array is the actual value, so if an array began with the string "orange" the index would be 0 and the value with be "orange".
 
 
 
 4. What is a built-in method?
 
-  Your answer:
+  Your answer: A built in method is essentially a function that's already built into javascript for things like strings that perform actions that you don't have to define yourself with code. .toUpperCase and .slice are examples of built in methods; they perform actions like upper casing a string or in the case of slice it returns a subset of string with a beginning and ending index. Neither of the methods listed require the user to define the function beforehand you just call it.
 
-  Researched answer:
+  Researched answer: Built in methods are premade functionality that exist in javascript to essentially save us time and the hassle of coding commonly used methods. Some built in methods require arguments to perform specific functions. Built in methods provide a wide range of functionality like helping access information, alter values, and retrive specific data. For arrays built in methods fall into two categories; mutators and accessors. Mutators modify the original array and are also known as setters and accessors do not modify the original array and are also known as getters. 
 
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: In pair programming there is a driver and a navigator. The driver is the person actually coding/typing and the navigator is the person watching over the driver and assisting them along the way. The two roles are meant to work together through the code even though only the driver is meant to be typing at any given time the navigator should be putting in as much input as possible to aid the process. The navigator should be keeping an eye out for small missed syntax, grammatical, or logic errors and give helpful suggestions if the driver gets stuck. 
 
-  Researched answer:
+  Researched answer: Pair programming is used to promote efficiency and create exposure to different perspectives on how to solve the same problem. It is meant to distribute cognitive load between the driver and the navigator. Two set of eyes makes it easier to spot mistakes, and the priocess is meant to alleviate the stress of learning how to program. A pair helps keep eachother accountable to focus on the task and not take shortcuts or get distracted. Talking about the code with a partner helps promote a deeper understanding of the process and with increased specialization more collaboration is required. The driver is meant to be the hands on person who does the actual inputting and the navigator gives the instructions, therefore this approach requires constant communication. The process as a whole is meant to make you a better developer and teammate. 
 
 
 
 6. What is something we did in class this week you found helpful?  
 
-  Your answer:
+  Your answer: Something we did in class this week that I found helpful was the speed we went over every topic. From the introduction to conditions, arrays, and functions the fact that the lessons were slow and thorough was really appreciated. This style gave me time to really digest the information followed by doing hands on work to help solidify the knowledge. I'm really glad we're not just blowing through the topics.
 
 
 
@@ -53,12 +53,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Iteration:
+1. Iteration: An iteration is the process of repeating steps/executing a block of code over and over again. Iterations can be seen in the concept of loops in programming where the code will run repeatedly until a conditon is met. Each time the loops runs that is one iteration.
 
-2. Higher Order Functions:
+2. Higher Order Functions: Higher order functions are functions that can take in a function as an argument or return a function as an output. 
 
-3. Jest:
+3. Jest: Jest is a testing framework intended to ensure correctness of any Javascript codebases with automated quality assurance. 
 
-4. Classes:
+4. Classes: Classes are resuable and customizable blueprints for objects. Classes are like functions that contain a particular set of data and behavior particular to that class. For example you could make a character class with methods like attack, jump, run etc. 
 
-5. React:
+5. React: React is a javascript library that is used to build smart parts and join them together to create whole applications. 
